@@ -22,4 +22,3 @@ if __name__ == "__main__":
     print(f"Arreglo Original: {datos_basicos}")
     bubble_sort_basico(datos_basicos)
     print(f"Arreglo Ordenado: {datos_basicos}\n")
-
